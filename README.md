@@ -19,11 +19,12 @@ Stock Recommendation
   -  CAGR < 5%  → Low growth — **RESEARCH MORE**
  
     
-  - ** Extra Mile Achievements**
+Extra Mile Achievements
+
 GitHub upload for version tracking and transparency
 
- Long-term financial analysis
+Long-term financial analysis
 
- Clear BUY/HOLD/WAIT recommendation
+Clear BUY/HOLD/WAIT recommendation
 
  
